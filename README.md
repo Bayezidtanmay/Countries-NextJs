@@ -78,10 +78,3 @@ This project uses Supabase for:
 | `country_id` | `text` | ISO country code (e.g., "FRA", "USA") |
 
 ---
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/Countries.git
-cd Countries
